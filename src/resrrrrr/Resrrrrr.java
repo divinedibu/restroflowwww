@@ -15,7 +15,7 @@ public class Resrrrrr {
      */
     public static void main(String[] args) {
         System.out.println("HELLO WORLD ");
-        System.out.println("CODE CHECK ");
+        System.out.println("CODE CHECK "); 
         // TODO code application logic here
     }
     
